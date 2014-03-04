@@ -12,6 +12,13 @@ gem 'mysql2'
 #get bcrypt to generate secure password hashes
 gem 'bcrypt-ruby', '3.1.2'
 
+#let's fake some user info
+gem 'faker', '1.1.2'
+
+#let's paginate some stuff
+gem 'will_paginate', '3.0.4'
+gem 'bootstrap-will_paginate', '0.0.9'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
